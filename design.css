@@ -1,0 +1,39 @@
+.pic1{
+	display: center;
+margin-top: 20px;
+margin-left: 28px;
+}
+.para1{
+margin-left: 550px;
+font-family: roboto;
+font-size: 30px;
+}
+.pic2{
+margin-left: 28px;
+}
+.para2{
+	font-size: 30px;
+	margin-left: 450px;
+font-family: roboto;
+}
+.pic3{
+	margin-left: 28px;
+}
+.para3{
+	font-size: 30px;
+	margin-left: 500px;
+font-family: roboto;
+}
+.end{
+	background-color: black;
+}
+.button{
+	margin-top: 15px;
+	margin-left: 20px;
+}
+h1{
+
+}
+.login{
+	margin-left: 900px;
+}
